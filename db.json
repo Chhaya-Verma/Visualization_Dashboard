@@ -1,12 +1,28 @@
 {
   "users": [
     {
-      "id": "RynMHf6xkaYoixAv4KCoDMlowBv1",
-      "name": "Riya",
+      "id": "TjXtsyHldGh0tMnR7afb6Cx3K1l2",
+      "name": "Ina ",
       "gender": "Female",
-      "email": "riya@gmail.com",
+      "email": "ina@gmail.com",
       "password": "123456789"
+    },
+    {
+      "id": "ihZuFDlZW4NuuWfH35P1enqVacu2",
+      "name": "pooja",
+      "gender": "Female",
+      "email": "poojasingh23@navgurukul.org",
+      "password": "123456"
     }
   ],
-  "preferences": []
+  "preferences": [
+    {
+      "id": "7393",
+      "userId": "TjXtsyHldGh0tMnR7afb6Cx3K1l2",
+      "age": "15-25",
+      "gender": "Female",
+      "startDate": "2022-10-12",
+      "endDate": "2022-10-15"
+    }
+  ]
 }
